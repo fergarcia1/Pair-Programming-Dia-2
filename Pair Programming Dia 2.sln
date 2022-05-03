@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pair Programming Dia 2", "Pair Programming Dia 2\Pair Programming Dia 2.csproj", "{506C1CB9-3BBF-4C23-9446-E77B9BF168C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506C1CB9-3BBF-4C23-9446-E77B9BF168C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506C1CB9-3BBF-4C23-9446-E77B9BF168C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506C1CB9-3BBF-4C23-9446-E77B9BF168C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506C1CB9-3BBF-4C23-9446-E77B9BF168C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CD74B5-6754-40D4-840E-BC56F36C5EB6}
+	EndGlobalSection
+EndGlobal
